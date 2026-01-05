@@ -16,5 +16,5 @@ total_bill=bill+total_bill_tip
 # now we have to split bill into members
 
 per_person=round(total_bill/people,2)
-
+ 
 print(f"each person should pay:{per_person}")
