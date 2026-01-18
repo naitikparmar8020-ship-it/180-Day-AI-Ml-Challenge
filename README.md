@@ -11,3 +11,7 @@ Day 2:jan 3,2026
 topic:"Learned about Type Casting and F-Strings.
 Project: tip calculator
 Status: ✅ Complete
+
+Day 3:jan 17,2026
+topic:Write about "Nested Conditionals" and "Logical Operators" ($and$, $or$, $not$).
+Status:✅ Complete
